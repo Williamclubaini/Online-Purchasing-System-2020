@@ -1,0 +1,8 @@
+HOW TO RUN THE SYSTEM
+1. Move the folder "HB-Wholesalers-online-purchasing-system" into htdocs (C:\xampp\htdocs)
+2. TURN ON XAMPP or WAMPP
+3.Run This script in your "http://localhost/HB-Wholesalers-online-purchasing-system/CreateDB.php"
+4. Click on sign up to register 
+
+
+
